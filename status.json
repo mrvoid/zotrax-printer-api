@@ -1,0 +1,17 @@
+{
+  "commands": [
+    {
+      "fields": [
+        "printerStatus",
+        "storageBytesFree",
+        "storageBytesTotal",
+        "currentMaterialId",
+        "serialNumber",
+        "printingInProgress",
+        "failsafeAlertReason",
+        "failsafeAlertSource"
+      ],
+      "type": "status"
+    }
+  ]
+}

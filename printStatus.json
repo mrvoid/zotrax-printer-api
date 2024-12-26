@@ -1,0 +1,13 @@
+{
+  "commands": [
+    {
+      "fields": [
+        "progress",
+        "metadata",
+        "userSettings",
+        "filename"
+      ],
+      "type": "printStatus"
+    }
+  ]
+}

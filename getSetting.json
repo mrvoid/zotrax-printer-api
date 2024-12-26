@@ -1,0 +1,13 @@
+{
+  "commands": [
+    {
+      "fields": [
+        "lights",
+        "buzzer",
+        "sleep",
+        "nozzleDiameter"
+      ],
+      "type": "getSetting"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "commands": [
+    {
+      "fields": [
+        "protocol",
+        "firmware",
+        "software",
+        "hardware"
+      ],
+      "type": "version"
+    }
+  ]
+}
