@@ -2,7 +2,7 @@
 
 ## Printer discovery in local network
 
-UDP packet with payload `Zortrax` to your broadcast.
+UDP packet on port `8001` with payload `Zortrax` to your broadcast.
 You will reveive a response on the same port if there is compatible hardware present.
 
 ### UDP Response structure
