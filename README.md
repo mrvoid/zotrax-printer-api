@@ -232,6 +232,8 @@ If print started (after heating phase) then the status is 1.
 }
 ```
 
+`printerStatus` might be in: `busy` `printing` `heating` `printing_complete` `idle`
+
 #### Query 4: Print a file
 
 ```json
